@@ -1,12 +1,20 @@
-# React + Vite
+# 📅 Agenda
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto foi desenvolvido durante a disciplina **Desenvolvimento Front-end 2** do curso de Análise e Desenvolvimento de Sistemas.  
+Foi meu **primeiro contato com React.js**, utilizando **Vite** para criar a estrutura do projeto e praticar os fundamentos da biblioteca.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologias utilizadas
+- [React.js](https://reactjs.org/)  
+- [Vite](https://vitejs.dev/)  
+- HTML5 / CSS3  
+- JavaScript (ES6+)  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Funcionalidades
+- Criação e listagem de compromissos  
+- Estrutura de componentes reutilizáveis  
+- Manipulação de estado com `useState`  
+- Organização do código em pastas (`src`, `components`, etc.)  
